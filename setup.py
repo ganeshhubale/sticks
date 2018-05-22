@@ -6,7 +6,7 @@ setup(
   description = 'A random test lib',
   author = 'ganesh',
   author_email = 'ganeshhubale@gmail.com',
-  url = 'https://github.com/ganeshhubale/game_of_sticks', 
+  url = 'https://github.com/ganeshhubale/sticks', 
  # download_url = 'https://github.com/peterldowns/mypackage/archive/0.1.tar.gz', # I'll explain this in a second
   keywords = ['testing', 'logging', 'sticks'], # arbitrary keywords
   classifiers = [],
