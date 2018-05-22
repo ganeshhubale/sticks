@@ -25,7 +25,7 @@ def main():
                 print("============================================================\n")
                 ch = (input("(:: Do you want to play again--> y/n ::)- "))
                 print("============================================================\n")
-                if ch.lower() in ['yes','y']:
+                if ch == 'y':
                     flag = True
                     continue
                 else:
