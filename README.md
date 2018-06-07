@@ -7,7 +7,7 @@ $ git clone https://github.com/ganeshhubale/sticks.git
 
     We recommend to create and activate a virtualenv first:
 
-$ cd readit/
+$ cd sticks/
 
 $ python3 -m venv env
 
